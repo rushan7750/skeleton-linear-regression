@@ -10,3 +10,5 @@ and for linux the commands are in 'commands/linux'
 
 THIS IS SKELETON PROJECT FOR SAVING DATA, TRAINING IT AND PREDICTING OUTPUTS USING IT. 
 YOU CAN USE LINEAR REGRESSION TO FIND THE PATTERN IN DATA. 
+
+I was just to lazy to create a markdown file 😅
